@@ -26,7 +26,7 @@ with open('src/flask_cachecontrol/__init__.py', 'rb') as f:
 
 
 setup(
-    name='Flask-CacheControl',
+    name='alaya-flask-cachecontrol',
     version=version,
     url='https://github.com/twiebe/Flask-CacheControl',
     license='BSD',
